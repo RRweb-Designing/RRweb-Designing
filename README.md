@@ -1,7 +1,7 @@
 ### Instructions
 - Clone the repository 
 ```
-git clone https://github.com/tejlagwankar/financeapp_landing_page.git
+https://github.com/RRweb-Designing/RRweb-Designing.git
 ```
 - Open index.html in web browser OR start a live server on localhost
 
